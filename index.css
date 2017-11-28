@@ -1,0 +1,52 @@
+header nav {
+    display: flex;
+    outline: 1px solid #c6c6c6;
+    padding: .5rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.category-dropdown {
+    flex: 0 0 100px;
+    margin: .1rem;
+}
+div {
+    display: flex;
+    justify-content: flex-end;
+}
+.search-input {
+    flex: 1 1 300px;
+}
+.search-button {
+    flex: 1 1 100px;
+}
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+}
+main {
+    display: flex;
+}
+.sidebar {
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-width: 200px;
+}
+.sidebar .category {
+    margin-top: 2rem;
+}
+.products {
+    display: flex;
+    flex-wrap: wrap;
+}
+.products article {
+    flex: 1 1 auto;
+    margin: 1rem 0;
+    width: 300px;
+    text-align: center;
+}
+.products article img {
+    width: 200px;
+}
+
+
+
