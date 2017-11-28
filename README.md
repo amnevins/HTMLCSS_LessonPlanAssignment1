@@ -25,7 +25,6 @@ Design Expectations
 - Responsive layout should cover Tablet, Laptop, and Desktop screen sizes. (Bonus - mobile)
 ```
 
-```
 Mockups
 - Desktop Mockup - https://s3.amazonaws.com/atacapstonetest/HTMLCSS/mockup_desktop.png
 - Laptop Mockup - https://s3.amazonaws.com/atacapstonetest/HTMLCSS/mockup_laptop.png
