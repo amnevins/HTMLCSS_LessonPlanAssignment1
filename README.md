@@ -46,3 +46,7 @@ For more information or review on CSS visit CSSDiner https://flukeout.github.io/
 ### HTML
 
 For more information or review on HTML visit the HTML tag list https://www.w3schools.com/tags/default.asp
+
+### BONUS
+
+Your team's designer is very new.  Make it prettier than the mockups!
